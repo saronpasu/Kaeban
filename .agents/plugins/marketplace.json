@@ -1,0 +1,20 @@
+{
+  "name": "kaeban-local",
+  "interface": {
+    "displayName": "Kaeban Local"
+  },
+  "plugins": [
+    {
+      "name": "kaeban",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kaeban"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Entertainment"
+    }
+  ]
+}
