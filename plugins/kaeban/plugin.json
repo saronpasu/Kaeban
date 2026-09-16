@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "kaeban",
-  "version": "0.1.17-debug.6",
+  "version": "0.1.17-debug.7",
   "description": "Play Kaeban, a collaborative story game with replaceable scene boards."
 }
