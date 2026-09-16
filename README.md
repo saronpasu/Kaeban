@@ -2,7 +2,7 @@
 
 替え盤とは、ChatGPTに物語を作らせて体験してもらう遊びです。
 
-このリポジトリは、Kaeban Pluginの公開Previewです。現在のPreviewバージョンは `0.1.17-preview.2` です。完成版ではなく、遊びながら育てています。
+このリポジトリは、Kaeban Pluginの公開Previewです。現在のPreviewバージョンは `0.1.17-preview.3` です。完成版ではなく、遊びながら育てています。
 
 ## 遊ぶ
 
