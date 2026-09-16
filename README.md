@@ -19,6 +19,8 @@ Pluginを有効にした通常のChatGPTで「替え盤で遊ぼう」と話し�
 - [観測・フィードバックを届ける](https://github.com/saronpasu/Kaeban/issues/new?template=observation-feedback.yml)
 - [Issuesを見る](https://github.com/saronpasu/Kaeban/issues)
 
+公開文書： [Customer Support](https://saronpasu.github.io/Kaeban/support/) · [Privacy Policy](https://saronpasu.github.io/Kaeban/privacy/) · [Terms of Service](https://saronpasu.github.io/Kaeban/terms/)
+
 報告では、何をしたか、何が起きたか、期待していたこと、可能なら関連する会話部分を教えてください。不具合と、まだ良し悪しを決めない観測は、分けられる範囲で分けてください。
 
 ## 公開思想
