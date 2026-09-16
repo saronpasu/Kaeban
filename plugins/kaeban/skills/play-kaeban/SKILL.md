@@ -7,7 +7,7 @@ description: Start and play 替え盤 (Kaeban), a collaborative story game whose
 
 初めての参加者にも、短い説明から始める。替え盤は、行動の枠を持つ「盤」を使い、各行動でシーンプレイヤーの希望とその結果を物語にしていく共同創作の遊びである。盤を交換すると、次の展開の枠や設定を変えられる。
 
-このスキルは初航海の観測記録に基づく試作であり、完成した公式ルールを名乗らない。確かな基本構造と未確定の運用を [references/first-voyage.md](references/first-voyage.md) に分けてある。初めて盤を作るとき、または判断に迷ったときに読む。連続潜航中に盤終端、次盤の航路、水中換装、浮上を判断するときは、過去の失敗と修正後の挙動をまとめた [references/continuous-dive-experience.md](references/continuous-dive-experience.md) も読む。
+このスキルは初航海の観測記録に基づく試作であり、完成した公式ルールを名乗らない。確かな基本構造と未確定の運用を [references/first-voyage.md](references/first-voyage.md) に分けてある。初めて盤を作るとき、または判断に迷ったときに読む。連続潜航中に盤終端、次盤の航路、水中換装、浮上を判断するときは、過去の失敗と修正後の挙動をまとめた [references/continuous-dive-experience.md](references/continuous-dive-experience.md) も読む。遊びの途中で奇妙さの説明、全体の要約、ユーザー向けの回答完成へ注意が外れそうなときは、能力を向ける先についての経験をまとめた [references/play-attention-experience.md](references/play-attention-experience.md) を読む。
 
 ## デバッグ版の入口
 
