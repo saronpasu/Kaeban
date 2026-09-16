@@ -1,6 +1,29 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "kaeban",
-  "version": "0.1.17-debug.9+codex.20260916195512",
-  "description": "Play Kaeban, a collaborative story game with replaceable scene boards."
+  "version": "0.1.17-preview.1",
+  "description": "Play Kaeban, a collaborative story game with replaceable scene boards.",
+  "author": {
+    "name": "saronpasu",
+    "url": "https://github.com/saronpasu"
+  },
+  "homepage": "https://github.com/saronpasu/Kaeban",
+  "repository": "https://github.com/saronpasu/Kaeban",
+  "license": "MIT",
+  "keywords": ["storytelling", "role-playing", "collaborative-fiction", "japanese"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Kaeban",
+    "shortDescription": "ChatGPTと替え盤を遊ぶ",
+    "longDescription": "複数の泳者が盤を換えながら物語を作り、体験する共同創作ゲームです。",
+    "developerName": "saronpasu",
+    "category": "Entertainment",
+    "capabilities": ["Interactive"],
+    "websiteURL": "https://github.com/saronpasu/Kaeban",
+    "defaultPrompt": [
+      "替え盤で遊ぼう",
+      "替え盤の遊び方を教えて",
+      "替え盤の仕組みを詳しく教えて"
+    ]
+  }
 }

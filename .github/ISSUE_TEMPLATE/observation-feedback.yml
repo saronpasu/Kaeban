@@ -1,0 +1,40 @@
+name: 観測・フィードバック
+description: 不具合と断定しない挙動、遊んだ感触、改善案の共有
+title: "[Observation]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        観測をありがとうございます。会話に個人情報や秘密が含まれていないか、投稿前に確認してください。
+  - type: textarea
+    id: action
+    attributes:
+      label: 何をしましたか
+      description: どのように遊び、どんな入力や選択をしたか教えてください。
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 何が起きましたか
+      description: 良し悪しを決めず、観測したことや感じたことを書けます。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 何を期待していましたか
+      description: 期待、予想、こうだったらよいという案があれば教えてください。
+    validations:
+      required: true
+  - type: textarea
+    id: excerpt
+    attributes:
+      label: 関連する会話部分
+      description: 必要な範囲だけ貼り付けてください。個人情報や秘密は削除してください。
+      render: text
+  - type: input
+    id: version
+    attributes:
+      label: Pluginバージョン
+      placeholder: 例 0.1.17-preview.1

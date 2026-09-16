@@ -1,0 +1,40 @@
+name: 不具合報告
+description: 替え盤が期待どおりに動かなかったときの報告
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        報告ありがとうございます。会話に個人情報や秘密が含まれていないか、投稿前に確認してください。
+  - type: textarea
+    id: action
+    attributes:
+      label: 何をしましたか
+      description: 使った入口、選択したコース、入力した言葉などを教えてください。
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 何が起きましたか
+      description: 実際の挙動を教えてください。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 何を期待していましたか
+      description: 期待した挙動を教えてください。
+    validations:
+      required: true
+  - type: textarea
+    id: excerpt
+    attributes:
+      label: 関連する会話部分
+      description: 必要な範囲だけ貼り付けてください。個人情報や秘密は削除してください。
+      render: text
+  - type: input
+    id: version
+    attributes:
+      label: Pluginバージョン
+      placeholder: 例 0.1.17-preview.1
