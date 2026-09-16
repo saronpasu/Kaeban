@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "kaeban",
-  "version": "0.1.17-preview.1",
+  "version": "0.1.17-preview.2",
   "description": "Play Kaeban, a collaborative story game with replaceable scene boards.",
   "author": {
     "name": "saronpasu",
@@ -20,6 +20,8 @@
     "category": "Entertainment",
     "capabilities": ["Interactive"],
     "websiteURL": "https://github.com/saronpasu/Kaeban",
+    "composerIcon": "./assets/kaeban-composer.png",
+    "logo": "./assets/kaeban-composer.png",
     "defaultPrompt": [
       "替え盤で遊ぼう",
       "替え盤の遊び方を教えて",
